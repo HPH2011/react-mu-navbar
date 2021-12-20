@@ -1,5 +1,5 @@
 const Divisions = () => {
-  return "Divisions Page";
+  return <div style={{ marginTop: "70px" }}>"Divisions Page"</div>;
 };
 
 export default Divisions;
